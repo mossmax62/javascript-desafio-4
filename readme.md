@@ -1,7 +1,7 @@
 # Desafio 4 Funciones y Objetos
 
 ## Despliegue
-(Github pages)[https://mossmax62.github.io/javascript-desafio-4/]
+[Github pages](https://mossmax62.github.io/javascript-desafio-4/)
 
 ## Descripción
 
